@@ -1,3 +1,6 @@
+[![Build Status](https://dev.azure.com/ibrahimsaliu2970865/ContosoAir/_apis/build/status%2FIbrahim-saliu.ContosoAir?branchName=master)](https://dev.azure.com/ibrahimsaliu2970865/ContosoAir/_build/latest?definitionId=6&branchName=master)
+
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
